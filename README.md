@@ -7,6 +7,12 @@
 
 
 ---
+## 🔧 My Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&logo=vue.js&logoColor=fff)
+![.NET Core](https://img.shields.io/badge/-.NET-512BD4?&logo=.net&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?&logo=android&logoColor=white)
 ## 🛠️ My Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
