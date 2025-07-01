@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Afifa 👋</h1>
-<p align="center">BCA Student | Curious Developer | Code + Aesthetic = 💖</p>
+<p align="center">BCA Student | Curious Developer </p>
 
 ---
 
 ## 🌸 About Me
 - 🎓 Final year BCA student
 - 🧠 Love building cute, daily-use mini apps
-- ✈️ Applying to MBZUAI and global internships
 - 💡 Believer in "Build small, build daily"
 
 ---
@@ -38,25 +37,9 @@
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
 ---
 
 <p align="center">✨ Let's build magic with code! ✨</p>
 
-
-<!--
-**shaika-123/shaika-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
