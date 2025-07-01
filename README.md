@@ -37,7 +37,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-https://www.linkedin.com/in/afifa-shaik-470072268/?&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
 ---
 
