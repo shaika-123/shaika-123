@@ -23,6 +23,19 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&logo=vue.js&logoColor=fff)
 ![.NET Core](https://img.shields.io/badge/-.NET-512BD4?&logo=.net&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?&logo=android&logoColor=white)
+### 🧑‍💻 Programming Languages
+`Java` `C` `C#` `Python` `PHP` `JavaScript`
+
+### 🌐 Web Development
+`HTML` `CSS` `Vue.js` `React` `Node.js`
+
+### 🔙 Backend & Databases
+`.NET Core API` `SQL` `PostgreSQL` `MongoDB`
+
+### 🧰 Tools & Platforms
+`Figma` `Git` `Web3`
+
+### 📱 Mobile App Developme
 
 ---
 
