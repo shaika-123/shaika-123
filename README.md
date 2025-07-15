@@ -35,9 +35,23 @@
 
 ## 🎁 Featured Projects
 
-- 🎂 [Countdown App](https://github.com/shaika-123/countdown-app) – Real-time age countdown with widget!  
-- ⏳ [Study Timer](https://github.com/shaika-123/study-timer) – Kawaii timer for focused study sessions  
-- 💌 [Gift Generator](https://github.com/shaika-123/gift-generator) – Create and send mini gift apps to friends
+<p align="left">
+
+  <a href="https://github.com/shaika-123/Cravee" target="_blank">
+    <img src="https://img.shields.io/badge/🍜%20Cravee-Full%20Stack%20Food%20Ordering%20App-ff69b4?style=for-the-badge&logo=react&logoColor=white&color=ff9aa2" alt="Cravee Badge"/>
+  </a>  
+  <br/>
+  <em>A cute, full-stack food ordering app with real-time cart, admin panel, and Cloudinary image hosting!</em>
+
+  <br/><br/>
+
+  <a href="https://github.com/shaika-123/Voca" target="_blank">
+    <img src="https://img.shields.io/badge/🎙️%20Voca-Kawaii%20Voice%20to%20Text%20App-ffd6e0?style=for-the-badge&logo=javascript&logoColor=white&color=ffb3c6" alt="Voca Badge"/>
+  </a>
+  <br/>
+  <em>A kawaii-themed voice-to-text web app using Web Speech API, perfect for quick transcriptions</em>
+
+</p>
 
 ---
 
