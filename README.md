@@ -46,7 +46,7 @@
   <br/><br/>
 
   <a href="https://github.com/shaika-123/Voca" target="_blank">
-     <img src="https://img.shields.io/badge/🎀🎙️%20Voca-Kawaii%20Voice%20to%20Text%20App-ffd6e0?style=for-the-badge&logo=javascript&logoColor=white&color=ffb3c6" alt="Voca Badge"/>
+     <img src="https://img.shields.io/badge/🎀%20Voca-Kawaii%20Voice%20to%20Text%20App-ffd6e0?style=for-the-badge&logo=javascript&logoColor=white&color=ffb3c6" alt="Voca Badge"/>
   </a>
   <br/>
   <em>A kawaii-themed voice-to-text web app using Web Speech API, perfect for quick transcriptions</em>
