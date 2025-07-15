@@ -42,6 +42,7 @@
   </a>  
   <br/>
   <em>A cute, full-stack food ordering app with real-time cart, admin panel, and Cloudinary image hosting!</em>
+  🍜 [Cravee](https://github.com/shaika-123/Cravee)
 
   <br/><br/>
 
