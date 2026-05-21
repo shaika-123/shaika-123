@@ -129,9 +129,15 @@ Kawaii-themed speech transcription app using the Web Speech API.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaika-123&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaika-123&layout=compact&theme=tokyonight"/>
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=shaika-123&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaika-123&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
